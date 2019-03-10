@@ -20,5 +20,5 @@ jupyter-nbextension install rise --py --sys-prefix
 
 If you had a notebook server running during the install you will need to restart it for the RISE extension to show in your notebook.
 
-For mor information on slideshows in Jupyter see Mike Driscoll's excellent expert from his book Jupyter 101. [Slideshows in Jupyter](https://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/).
+For mor information on slideshows in Jupyter see Mike Driscoll's excellent exceprt from his book Jupyter 101. [Slideshows in Jupyter](https://www.blog.pythonlibrary.org/2018/09/25/creating-presentations-with-jupyter-notebook/).
 
